@@ -1,0 +1,14 @@
+R:\cts\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+R:\cts\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+R:\cts\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+R:\cts\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+R:\cts\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+R:\cts\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll

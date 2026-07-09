@@ -1,0 +1,14 @@
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.AssemblyInfoInputs.cache
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.AssemblyInfo.cs
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.csproj.CoreCompileInputs.cache
+R:\cts\Exercise2-FactoryMethodPattern\bin\Debug\net10.0\Exercise2-FactoryMethodPattern.exe
+R:\cts\Exercise2-FactoryMethodPattern\bin\Debug\net10.0\Exercise2-FactoryMethodPattern.deps.json
+R:\cts\Exercise2-FactoryMethodPattern\bin\Debug\net10.0\Exercise2-FactoryMethodPattern.runtimeconfig.json
+R:\cts\Exercise2-FactoryMethodPattern\bin\Debug\net10.0\Exercise2-FactoryMethodPattern.dll
+R:\cts\Exercise2-FactoryMethodPattern\bin\Debug\net10.0\Exercise2-FactoryMethodPattern.pdb
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.dll
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\refint\Exercise2-FactoryMethodPattern.dll
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.pdb
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\Exercise2-FactoryMethodPattern.genruntimeconfig.cache
+R:\cts\Exercise2-FactoryMethodPattern\obj\Debug\net10.0\ref\Exercise2-FactoryMethodPattern.dll

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|c:\\users\\revan\\source\\repos\\thirdwebapi\\thirdwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67934894-BFC4-5D2C-D6AE-F773FC0D4E3B}|ThirdWebApi\\ThirdWebApi.csproj|solutionrelative:thirdwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Program.cs",
+              "RelativeToolTip": "ThirdWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:37:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ThirdWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:37:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ThirdWebApi\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:36:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "ThirdWebApi\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:36:25.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "ThirdWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:35:58.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Skill.cs",
+              "RelativeToolTip": "ThirdWebApi\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:35:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ThirdWebApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\ThirdWebApi\\ThirdWebApi\\Models\\Department.cs",
+              "RelativeToolTip": "ThirdWebApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:34:56.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

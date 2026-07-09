@@ -1,0 +1,11 @@
+R:\cts\MoqHandsOn\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+R:\cts\MoqHandsOn\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+R:\cts\MoqHandsOn\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+R:\cts\MoqHandsOn\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll

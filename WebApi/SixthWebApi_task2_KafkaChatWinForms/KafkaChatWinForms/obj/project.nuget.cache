@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuTeBupWbJo=",
+  "success": true,
+  "projectFilePath": "R:\\cts\\CTS_deepskilling\\WebApi\\SixthWebApi_task2_KafkaChatWinForms\\KafkaChatWinForms\\KafkaChatWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\revan\\.nuget\\packages\\confluent.kafka\\2.15.0\\confluent.kafka.2.15.0.nupkg.sha512",
+    "C:\\Users\\revan\\.nuget\\packages\\librdkafka.redist\\2.15.0\\librdkafka.redist.2.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

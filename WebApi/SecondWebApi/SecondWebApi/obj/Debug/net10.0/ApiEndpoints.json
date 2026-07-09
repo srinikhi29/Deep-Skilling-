@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SecondWebApi.Controllers.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/Emp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SecondWebApi.Controllers.EmployeeController",
+    "Method": "Post",
+    "RelativePath": "api/Emp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "SecondWebApi.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|c:\\users\\revan\\source\\repos\\secondwebapi\\secondwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|solutionrelative:secondwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|c:\\users\\revan\\source\\repos\\secondwebapi\\secondwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|solutionrelative:secondwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|c:\\users\\revan\\source\\repos\\secondwebapi\\secondwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E8BF3-BD13-4D70-8DDD-08FC70616126}|SecondWebApi\\SecondWebApi.csproj|solutionrelative:secondwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SecondWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SecondWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:13:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SecondWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "SecondWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:11:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SecondWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\SecondWebApi\\SecondWebApi\\Program.cs",
+              "RelativeToolTip": "SecondWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:06:51.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

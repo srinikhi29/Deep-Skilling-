@@ -1,0 +1,9 @@
+PUT https://localhost:7156/api/employee/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Revanth",
+  "department": "Cyber Security",
+  "salary": 65000
+}
